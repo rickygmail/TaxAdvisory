@@ -3,3 +3,4 @@ python-dotenv
 psycopg2
 PyPDF2
 pytesseract 
+gemini_helper
